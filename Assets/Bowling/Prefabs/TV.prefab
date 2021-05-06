@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5350827647818061052}
   - component: {fileID: 3264630043944839685}
   - component: {fileID: 7431898288068557281}
+  - component: {fileID: 568474211487671649}
   m_Layer: 0
   m_Name: tv_and_remote:pCube142
   m_TagString: Untagged
@@ -84,6 +85,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &568474211487671649
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2525070504045486833}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.032103527, y: 0.010078422, z: 0.009999999}
+  m_Center: {x: 0.011051521, y: -0.000039215192, z: 0.0000000037252903}
 --- !u!1 &3580253305019666082
 GameObject:
   m_ObjectHideFlags: 0
