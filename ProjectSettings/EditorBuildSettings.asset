@@ -5,13 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Lighting.unity
-    guid: 157e0f45a58d086448b19997675a2065
+  - enabled: 1
+    path: Assets/Scenes/Menu Bowling.unity
+    guid: 5e2967bfd84a4e244b2e291fc5bae944
   - enabled: 1
     path: Assets/Scenes/Bowling.unity
     guid: d8b0d638ddbb3a543903a63ab7a21621
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: be2d560aef1072c4ba348f05ef451619, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ffc037e8b6a23b34180ee59828e653e5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c759ed6f6bb40fb45a8ff3508ded01ba, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: a71fb62f9f30b6d4d8693639e5e8a25e, type: 2}
